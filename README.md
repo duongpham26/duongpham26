@@ -51,5 +51,5 @@ My name is Duong Pham, and I am currently a student at VNU.
 </div>
 <br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongpham26&layout=compact" alt="Logo">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongphan26&layout=compact"/>
 </div>
