@@ -12,6 +12,7 @@ My name is Duong Pham, and I am currently a student at VNU.
 <!--   <img src="https://github.com/duongpham26/duongpham26/assets/133898866/d3b5a1be-1945-46ec-a959-6503442fae54" alt="Logo" width="50px" style="filter: brightness(0.1);"> -->
   <img src="https://github.com/duongpham26/duongpham26/assets/133898866/00eb66c2-fdfb-4fb6-be89-013109fbb967" alt="Logo" width="50px" style="filter: brightness(0.1);">
   <img src="https://github.com/duongpham26/duongpham26/assets/133898866/07e0f572-485a-49ec-8a04-be4cc5cb9d99" alt="Logo" width="50px" style="filter: brightness(0.1);">
+    <img src="https://github.com/user-attachments/assets/4ae7f80f-f5ce-4351-9fdc-3f238ae2c56f" alt="Logo" height="50px" style="filter: brightness(0.1);">
 </div>
 
 ### Languages and Framewords
