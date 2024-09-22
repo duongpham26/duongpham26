@@ -51,6 +51,4 @@ My name is Duong Pham, and I am currently a student at VNU.
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio-%235C2D91?style=flat&logo=visualstudio&logoColor=white&logoSize=2"> 
 </div>
 <br>
-<div>
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongphan26&layout=compact"/>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duongpham26&show_icons=true&locale=en&layout=compact" alt="duongpham26" /></p>
