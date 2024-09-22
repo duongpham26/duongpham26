@@ -1,7 +1,7 @@
 # Hi there :hand: 
 My name is Duong Pham, and I am currently a student at VNU.
-- 🌱 I’m currently learning JavaScript
-- ❓ Ask me about anything related to JavaScript
+- 🌱 I’m currently learning Java
+- ❓ Ask me about anything related to Java
 - ⚡ Fun fact: I use tabs over spaces
 ## My skills
 ### Programming Languages
